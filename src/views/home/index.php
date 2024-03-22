@@ -15,10 +15,10 @@
     <h2>Projets</h2>
 
     <article>
-        <h3>Holycampers <a href="https://holycampers.com"><i class="fa-regular fa-hand-pointer"></i></a></h3>
+        <h3><a href="https://holycampers.com">Holycampers</a></h3>
         <div class="projectContainer">
             <div class="projectImg">
-                <img src="../../../public/img/hc_desktop_frame.PNG" alt="desktop holycampers" class="desktopImg">
+                <a href="https://holycampers.com"><img src="../../../public/img/hc_desktop_frame.PNG" alt="desktop holycampers" class="desktopImg"></a>
             </div>
             <div class="projectDesc">
                 <p class="status">Projet en ligne</p>
@@ -48,10 +48,10 @@
     </article>
 
     <article>
-        <h3>Portfolio <a href="https://github.com/lilraccoon15/my-book-nook-react"><i class="fa-brands fa-github"></i></a> <a href="https://holycampers.com"><i class="fa-regular fa-hand-pointer"></i></a></h3>
+        <h3><a href="https://camillelefort.sites.3wa.io/portfolio/src/Core/Router.php">Portfolio</a> <a href="https://github.com/lilraccoon15/portfolio"><i class="fa-brands fa-github"></i></a></h3>
         <div class="projectContainer">
             <div class="projectImg">
-                <img src="../../../public/img/portfolio_desktop_frame.PNG" alt="desktop portfolio" class="desktopImg">
+                <a href="https://camillelefort.sites.3wa.io/portfolio/src/Core/Router.php"><img src="../../../public/img/portfolio_desktop_frame.PNG" alt="desktop portfolio" class="desktopImg"></a>
             </div>
             <div class="projectDesc">
                 <p class="status">Projet en ligne</p>
@@ -64,10 +64,10 @@
     </article>
 
     <article>
-        <h3>Radioactive <a href="https://github.com/lilraccoon15/projet-fin-de-bootcamp"><i class="fa-brands fa-github"></i></a> <a href="https://camillelefort.sites.3wa.io/projet/index.php"><i class="fa-regular fa-hand-pointer"></i></a></h3>
+        <h3><a href="https://camillelefort.sites.3wa.io/projet/index.php">Radioactive</a> <a href="https://github.com/lilraccoon15/projet-fin-de-bootcamp"><i class="fa-brands fa-github"></i></a> </h3>
         <div class="projectContainer">
             <div class="projectImg">
-                <img src="../../../public/img/ra_desktop_frame.PNG" alt="desktop radioactive" class ="desktopImg">
+                <a href="https://camillelefort.sites.3wa.io/projet/index.php"><img src="../../../public/img/ra_desktop_frame.PNG" alt="desktop radioactive" class ="desktopImg"></a>
             </div>
             <div class="projectDesc">
                 <p class="status">Projet en ligne</p>
