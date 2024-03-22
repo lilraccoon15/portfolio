@@ -1,0 +1,17 @@
+{
+    "name": "camille/my-book-nook",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lilraccoon15",
+            "email": "camille.lefort15@gmail.com"
+        }
+    ],
+    "scripts": {
+        "sass": "sass --watch public/css/style.scss public/css/style.css"
+    }
+}
